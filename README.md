@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ozarslan99
+- 👋 Hi, I’m Salih Özarslan from Turkey.
 - 👀 I’m interested in surveying software
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on navigation apps
